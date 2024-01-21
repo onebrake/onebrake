@@ -7,5 +7,5 @@
   <section align="center">
     You have the option of leaving
   </section>
-  <img src="./src/me.jpg">
+  <img src="./src/me.jpg" align="center" style="border-radius: 20px;">
 </body>
