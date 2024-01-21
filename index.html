@@ -7,4 +7,5 @@
   <section align="center">
     You have the option of leaving
   </section>
+  <img src="./src/me.jpg">
 </body>
