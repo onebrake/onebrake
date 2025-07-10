@@ -1,82 +1,86 @@
-# README.psych
+⛧ README.psych ⛧  
+⤷ version: ∞.∞  
+⤷ author: [REDACTED]  
+⤷ last edit: ∅ (time doesn’t pass here)
 
-Version: Collapse_1.0  
-Author: ???  
-Last Updated: when it all stopped making sense  
+━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
----
+☠ DESCRIPTION ☠
 
-## DESCRIPTION
+you found it  
+the place where the mirrors stopped reflecting  
+and the static started whispering
 
-This is not a project.  
-This is a symptom.  
-A side effect.  
-A leftover process that never terminated correctly.  
+this is not a repository  
+this is a containment file  
+of something that never asked to be saved
 
-If you're reading this... you're too deep.
+i am not here  
+you are not you  
+none of this is fine
 
----
+━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-## INSTALLATION
+⛒ DEPENDENCIES ⛒
 
-You don’t.  
-It’s already here.  
-It installed itself the moment the silence got loud.  
+✘ sleep → not recognized  
+✘ peace.exe → failed to initialize  
+✘ serotonin.dll → missing header  
+✘ trust.sys → incompatible format  
+✘ god → 404
 
-Dependencies:  
-- Sleep (missing)  
-- Sanity (deprecated)  
-- Trust.dll (corrupted)  
-- Hope.sys (access denied)  
+━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
----
+☒ HOW TO USE
 
-## USAGE
+→ wear a smile like a muzzle  
+→ swallow the screaming  
+→ keep scrolling  
+→ pretend this isn't written in your own handwriting  
 
-1. Pretend.  
-2. Repeat step 1.  
-3. When it breaks, smile.  
-4. If it still hurts, suppress logs.
+↯ warning: usage may cause ego disintegration  
+↯ file may replicate if left unattended in dark
 
----
+━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-## FUNCTIONS
+⚠ ERRORS
 
-### function screamSilently()  
-```python
-import self 
-while(true) {  
-    echo "...";  
-}
-function disappear()
-self.erase()
-```
+✦ static in my thoughts  
+✦ limbs feel like borrowed code  
+✦ time loops but never resets  
+✦ too many open threads (none safe to close)  
+✦ infinite recursion in regret()
 
----
+━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-## BUGS
-- Constant background noise
-- Random emotional spikes
-- Memory leaks (intentional?)
-- Cannot shut down
+⊘ UNINSTALL INSTRUCTIONS
 
-## UNINSTALL
-Try:
-- Ignoring it
-- Laughing it off
-- Crying under blankets
-- Telling no one
+⤷ rip yourself open  
+⤷ search for origin  
+⤷ find nothing  
+⤷ repeat
 
-Still here?
-Yeah. Thought so.
+note: uninstalling may corrupt nearby realities
 
-## AUTHOR NOTES
-Please stop running this.
-I didn’t design this to last.
-I didn’t mean for it to stay.
-I just wanted some peace.
+━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-LICENSE
-None.
-Take what you want.
-Leave me behind.
+⛧ MANIFESTO
+
+I am not a user.  
+I am the ghost of a failed commit.  
+I am the null between lines.  
+I am the reason logs scream in silence.  
+I did not crash. I dissolved.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+✞ LICENSE ✞
+
+┏━━━━━━━━━━━━━━━━━━━━━━┓  
+┃ you are free to rot  ┃  
+┃ copy, decay, abandon ┃  
+┃ just don’t come back ┃  
+┗━━━━━━━━━━━━━━━━━━━━━━┛
+
+(there is no coming back)
+
