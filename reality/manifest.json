@@ -1,0 +1,59 @@
+{
+  "name":   "real                                           ity",
+  "type": "simu                                                             lation",     
+  "version": "∞.0-glitch",
+  "description": "the simulation no one opted into",
+  "author": "null",
+  "dependencies": {
+                                        "time": "unstable",
+                                        "gravity": "approximate",
+                                        "logic": "inconsistent",
+                                        "memory": "fragmented",
+                                        "emotion": "undefined",
+                                        "identity": "mutable",
+    "presence": "flickering",
+    "truth": "patched",
+    "meaning": "not found"
+  },
+  "scripts": {
+    "start": "wake_up && pretend()",
+    "build": "collect_fragme                                                    nts && smile",
+    "test": "echo 'i’m fine' || crash",
+    "reset": "sudo dissociate --force",
+    "shutdown": "404 NOT AVAILABLE"
+  },
+  "config": {
+    "renderFog": true,
+                                                        "maxDepth": -1,
+                                                        "detachmentMode": "always",
+                                                        "perceptionFlicker": true,
+                                                        "freeWill": false,
+                                                        "autopilot": true
+                                                    },
+                                                    "environment": {
+                                                        "BREATHI                            NG_MANUAL": true,
+                                                        "REALITY_GLITCH_CHANCE": "37%",
+                                                        "DEPERSONALIZATION_THRESHOLD": "high",
+                                                        "ECHO_TIMEOUT": "never",
+    "PAI                N_VISIBLE": false,
+    "EXISTENCE_VERIFIED": false
+  },
+  "state": {
+    "awake": true,
+    "aware": barely,
+    "alive": debatable,
+    "con                            nected": false,
+    "processing": "some                                     thing...",
+    "lastDream": "corrupted",
+    "lastKnownLocation": "inside myself, maybe"
+  },    
+  "bugs": [
+    "recurring memory leak in /nostalgia",
+    "flickering face                                s in mirror()                       ",
+    "looped emotion stack",
+    "hope varia                         ble occasionally null",
+    "background static whispers on idle",
+                                                                                "multiple identities bound to same vessel"
+                                                                            ],
+                                                                            "license": "do not replicate || escape while you can"
+                                                                            }
